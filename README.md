@@ -4,7 +4,7 @@ A modern and responsive financial dashboard application built with React, featur
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://stalwart-brigadeiros-e290e3.netlify.app/dashboard)
+[View Live Demo](https://stalwart-brigadeiros-e290e3.netlify.app)
 
 ## ✨ Key Features
 
